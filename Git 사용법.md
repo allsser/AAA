@@ -8,4 +8,12 @@
 * origin에 올라가 있는 상태, 아직 github.com 에는 정보가 안올라 가있음
 * git push -u origin master 입력하면  깃에 데이터가 올라간다.
 * 깃에서 데이터를 받을려면 git clone https://github.com/아이디/받을려고 하는 Repositories
-* 테스트입니다
+
+
+
+* 전 버전 불러오기 git reset 버전주소 --hard (공유전 내 컴퓨터에 있을 때에만 reset 작업)
+
+
+
+* git add (파일명) 대신에 git commit -a 로 하면 자동으로 commit 해준다.
+* vim 까지 안키고 버전명을 바꿀 때 git commit -am "바꿀 버전명"
