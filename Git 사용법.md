@@ -8,3 +8,4 @@
 * origin에 올라가 있는 상태, 아직 github.com 에는 정보가 안올라 가있음
 * git push -u origin master 입력하면  깃에 데이터가 올라간다.
 * 깃에서 데이터를 받을려면 git clone https://github.com/아이디/받을려고 하는 Repositories
+* 테스트입니다
